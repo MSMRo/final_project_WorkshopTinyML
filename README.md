@@ -19,7 +19,7 @@ To address this issue, a project leveraging TinyML (Tiny Machine Learning) and E
 
 The project can be replicated through the following steps:
 1. **Data Acquisition and Upload to Edge Impulse**:
-    - Clone the project from the Edge Impulse public repository. [Link](https://studio.edgeimpulse.com/public/494730/live)
+    - Clone the project from the Edge Impulse public repository. https://studio.edgeimpulse.com/public/494730/live  [Link](https://studio.edgeimpulse.com/public/494730/live)
     - Ensure the Wi-Fi firmware is fixed in Arduino for seamless data upload.
   
  ![Texto alternativo](img/firm_wifi.gif)   
