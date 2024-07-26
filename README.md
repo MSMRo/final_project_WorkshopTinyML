@@ -32,3 +32,8 @@ By following these steps and utilizing the provided resources, developers can cr
 
 ![Texto alternativo](img/Selection_207.png)
 ![Texto alternativo](img/Selection_208.png)
+
+
+# Would you like to try by commands?
+You can use this line code in your terminal:  
+    - mosquitto_sub -t "tinyml-brasil/data" -h "test.mosquitto.org"
