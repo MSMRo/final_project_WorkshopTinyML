@@ -38,4 +38,7 @@ By following these steps and utilizing the provided resources, developers can cr
 upload this code to arduino arduino_code.ino (It needs arduino_secrets.h, it is in folder), then run python_code.py (firstly install all libraries may needs )
 You can use this line code in your terminal:  
     - $ mosquitto_sub -t "tinyml-brasil/data" -h "test.mosquitto.org"
-    
+
+# About Workshop
+The Workshop on TinyML for Sustainable Development will be held in-person in São Paulo, Brazil from July 22-26 2024.
+https://tinyml.seas.harvard.edu/SustainableDev-24/
